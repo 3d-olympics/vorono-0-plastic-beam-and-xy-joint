@@ -3,7 +3,11 @@
 <img height="400" alt="image" src="https://github.com/user-attachments/assets/7a495db1-5add-492b-8f5b-8c4db9da69d6" />
 <img height="400" alt="image" src="https://github.com/user-attachments/assets/c12c5076-131f-4f57-a9e6-9022c5729166" />
 
+Old YouTube video:
 https://www.youtube.com/watch?v=mkoMObXBWAE
+
+New YouTube video:
+https://youtu.be/3sF8bKx-5_M
 
 Why have each X/Y joint consist of two plastic parts and an end of the aluminium beam, all bolted together, when you can have it all as one plastic part? I think this improves rigidity, with some caveats. And then the fact that this allows the use of an additional X rail (without having to raise the gantry like in other mods) offers clear advantages for toolhead rigidity.
 
